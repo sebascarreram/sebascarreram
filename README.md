@@ -1,8 +1,7 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, i'm Sebastian Carrera
+<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, i'm Sebastian Carrera</h2>
 
-<hr>
 
-#### My GitHub Stats
+<h3 align="center">My GitHub Stats</h3>
 
 <p align="center">
 <a href="https://github.com/sebascarreram/sebascarreram" >
