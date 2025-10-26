@@ -1,4 +1,4 @@
-<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, i'm Sebastian Carrera</h2>
+<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sebastian Carrera</h2>
 
 
 <h3 align="center">My GitHub Stats</h3>
